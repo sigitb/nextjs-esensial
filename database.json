@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Hello World",
+            "slug": "hello-world-1",
+            "content": "This is my first post"
+        },
+        {
+            "id": 2,
+            "title": "Hello World 2",
+            "slug": "hello-world-2",
+            "content": "This is my second post"
+        }
+    ],
+    "setting": {
+        "siteName": "My Blog"
+    }
+}

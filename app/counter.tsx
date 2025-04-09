@@ -7,7 +7,8 @@ export function Counter() {
     return (
         <div>
             <p> Counter  : {count}</p>
-            <button onClick={() => setCount(count + 1)}>Tambah</button>
+            <button onClick={() => setCount(count + 1)} 
+            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Tambah</button>
         </div>
     )
 }
